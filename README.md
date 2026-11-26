@@ -26,4 +26,4 @@
 
 ## ملاحظة
 جميع البيانات افتراضية ومخصصة للتدريب، ولا توجد فيها بيانات شخصية أو حقيقية.
-https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx
+https://github.com/SDAIAAcademy
